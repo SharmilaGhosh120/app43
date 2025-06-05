@@ -1,0 +1,8 @@
+streamlit
+pandas
+bcrypt
+python-dotenv
+requests
+ratelimit
+matplotlib
+openai
